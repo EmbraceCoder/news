@@ -87,6 +87,7 @@ export default {
     }
   }
 };
+// promise: promise对象返回一个异步操作后的结果, 它接收两个参数分别是resolve,reject
 </script>
 
 <style scoped>

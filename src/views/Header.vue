@@ -47,7 +47,6 @@ export default {
   display: flex;
   justify-content: center;
   width: 100%;
-  /*height: 60px;*/
   margin-bottom: 10px;
   background-color: #424242;
   min-width: 940px;
@@ -56,7 +55,6 @@ export default {
   width: 940px;
   height: 100%;
   display: flex;
-  /*background-color: #18bfff;*/
   justify-content: space-between;
   align-items: center;
 }

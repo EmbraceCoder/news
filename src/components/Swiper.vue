@@ -64,7 +64,7 @@ export default {
 
 <style lang="css" scoped>
   .swiper-container {
-    width: 940px;
+    width: 100%;
     height: 280px;
     min-width: 940px;
     min-height: 280px;

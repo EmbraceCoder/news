@@ -1,5 +1,11 @@
 # mynews
 
+![avatar](./pic/1.jpg)
+
+![avatar1](./pic/2.jpg)
+
+
+
 ## Project setup
 ```
 npm install
@@ -22,4 +28,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
 # news

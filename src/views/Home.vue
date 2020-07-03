@@ -49,7 +49,6 @@
                 console.log(typeof newId)
                 this.isLoading = true
                 let resp = await getNews(newId,1,10)
-                console.log(resp)
                 this.news = resp.contentlist
                 this.isLoading = false
             }
